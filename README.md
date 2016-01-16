@@ -1,2 +1,5 @@
-# Blog
-Free knowledge without copyright, A blogging alternative.
+## Lily's Blog
+备选博客平台, 自由知识无需授权.
+
+## License
+Re-distribute under MIT License.
